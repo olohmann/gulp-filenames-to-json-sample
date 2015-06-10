@@ -1,6 +1,6 @@
 # gulp-filenames-to-json-sample 
 
-A brief sample for the [gulp-filenames-to-json](https://github.com/olohmann/gulp-filenames-to-json-sample) gulp plugin.
+A brief sample for the [gulp-filenames-to-json](https://github.com/olohmann/gulp-filenames-to-json) gulp plugin.
 
 ## License
 
