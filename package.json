@@ -1,0 +1,24 @@
+{
+  "name": "gulp-filenames-to-json-sample",
+  "version": "0.1.0",
+  "description": "Sample for the gulp-filenames-to-json gulp plugin.",
+  "license": "MIT",
+  "repository": "olohmann/gulp-filenames-to-json-sample",
+  "author": {
+    "name": "Oliver Lohmann",
+    "email": "olohmann@gmail.com",
+    "url": "http://www.oliver-lohmann.me/"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "keywords": [
+    "gulp-filenames-to-json",
+    "sample"
+  ],
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-filenames-to-json": "^0.1.2",
+    "mocha": "*"
+  }
+}
